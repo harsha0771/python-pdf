@@ -1,1 +1,0 @@
-You can go through the tutorial https://roytuts.com/how-to-encrypt-pdf-as-password-protected-file-in-python/
